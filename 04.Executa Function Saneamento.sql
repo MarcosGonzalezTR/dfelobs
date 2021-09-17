@@ -1,0 +1,1 @@
+SELECT do_cleanup();
